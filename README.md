@@ -80,5 +80,5 @@
 InfoAgent’s code is provided under your preferred open-source license (e.g. MIT).  
 [Sherlock](https://github.com/sherlock-project/sherlock) is under the [MIT License](https://github.com/sherlock-project/sherlock/blob/master/LICENSE).  
 
-Enjoy using **InfoAgent**! If you find it helpful, consider ⭐ starring the Sherlock project as well.
+Enjoy using **InfoAgent**! 
 ```
